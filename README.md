@@ -1,6 +1,6 @@
 # ACADEMOR_Data Science Internship
-(Feb-March 2024)
-During my data science internship with ACADEMOR, I successfully completed one minor project and one major project. Below are the details of the tasks and methodologies involved:
+
+During my data science internship with ACADEMOR (Feb-March 2024), I successfully completed one minor project and one major project. Below are the details of the tasks and methodologies involved:
 
 ## Minor Project: Python Game Development
 
